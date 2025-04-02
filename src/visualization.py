@@ -1,6 +1,7 @@
 import matplotlib.pyplot as plt
 import seaborn as sns
 import pandas as pd
+import numpy as np
 import os
 def visualize_results(ids, results_df, output_path='visualization'):
     """
